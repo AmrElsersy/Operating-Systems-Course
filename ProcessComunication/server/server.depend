@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584823025 source:/home/amrelsersy/Operating_Systems/CodeBlocks/server/main.c
+	<sys/ipc.h>
+	<sys/shm.h>
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+

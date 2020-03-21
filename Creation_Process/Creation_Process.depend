@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583714462 source:/home/amrelsersy/Operating_Systems/CodeBlocks/Creation_Process/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
